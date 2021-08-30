@@ -8,6 +8,8 @@ public class archivoUno {
         System.out.println("Modifico Desde Diseñador 1 30/8/2021 15:32"); // imprimir
 
 
-        System.out.println("Modifico Desde Master 30/8/2021 15:52"); // imprimir
+        System.out.println("Modifico Desde Master 30/8/2021 15:52"); //
+        System.out.println("Modifico Desde GitHub 30/8/2021 15:54"); // imprimir
+        
     }
 }
